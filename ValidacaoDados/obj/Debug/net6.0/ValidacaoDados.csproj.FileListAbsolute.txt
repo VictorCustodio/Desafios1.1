@@ -1,0 +1,15 @@
+Z:\Dev\C#\Projetos\ValidacaoDados\bin\Debug\net6.0\ValidacaoDados.exe
+Z:\Dev\C#\Projetos\ValidacaoDados\bin\Debug\net6.0\ValidacaoDados.deps.json
+Z:\Dev\C#\Projetos\ValidacaoDados\bin\Debug\net6.0\ValidacaoDados.runtimeconfig.json
+Z:\Dev\C#\Projetos\ValidacaoDados\bin\Debug\net6.0\ValidacaoDados.dll
+Z:\Dev\C#\Projetos\ValidacaoDados\bin\Debug\net6.0\ValidacaoDados.pdb
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\ValidacaoDados.csproj.AssemblyReference.cache
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\ValidacaoDados.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\ValidacaoDados.AssemblyInfoInputs.cache
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\ValidacaoDados.AssemblyInfo.cs
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\ValidacaoDados.csproj.CoreCompileInputs.cache
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\ValidacaoDados.dll
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\refint\ValidacaoDados.dll
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\ValidacaoDados.pdb
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\ValidacaoDados.genruntimeconfig.cache
+Z:\Dev\C#\Projetos\ValidacaoDados\obj\Debug\net6.0\ref\ValidacaoDados.dll

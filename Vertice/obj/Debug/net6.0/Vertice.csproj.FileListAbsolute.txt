@@ -1,0 +1,15 @@
+Z:\Dev\C#\Projetos\Vertice\bin\Debug\net6.0\Vertice.exe
+Z:\Dev\C#\Projetos\Vertice\bin\Debug\net6.0\Vertice.deps.json
+Z:\Dev\C#\Projetos\Vertice\bin\Debug\net6.0\Vertice.runtimeconfig.json
+Z:\Dev\C#\Projetos\Vertice\bin\Debug\net6.0\Vertice.dll
+Z:\Dev\C#\Projetos\Vertice\bin\Debug\net6.0\Vertice.pdb
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\Vertice.csproj.AssemblyReference.cache
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\Vertice.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\Vertice.AssemblyInfoInputs.cache
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\Vertice.AssemblyInfo.cs
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\Vertice.csproj.CoreCompileInputs.cache
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\Vertice.dll
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\refint\Vertice.dll
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\Vertice.pdb
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\Vertice.genruntimeconfig.cache
+Z:\Dev\C#\Projetos\Vertice\obj\Debug\net6.0\ref\Vertice.dll

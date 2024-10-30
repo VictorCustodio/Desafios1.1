@@ -1,0 +1,15 @@
+Z:\Dev\C#\Projetos\Piramide\bin\Debug\net6.0\Piramide.exe
+Z:\Dev\C#\Projetos\Piramide\bin\Debug\net6.0\Piramide.deps.json
+Z:\Dev\C#\Projetos\Piramide\bin\Debug\net6.0\Piramide.runtimeconfig.json
+Z:\Dev\C#\Projetos\Piramide\bin\Debug\net6.0\Piramide.dll
+Z:\Dev\C#\Projetos\Piramide\bin\Debug\net6.0\Piramide.pdb
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\Piramide.csproj.AssemblyReference.cache
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\Piramide.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\Piramide.AssemblyInfoInputs.cache
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\Piramide.AssemblyInfo.cs
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\Piramide.csproj.CoreCompileInputs.cache
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\Piramide.dll
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\refint\Piramide.dll
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\Piramide.pdb
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\Piramide.genruntimeconfig.cache
+Z:\Dev\C#\Projetos\Piramide\obj\Debug\net6.0\ref\Piramide.dll
